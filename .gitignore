@@ -1,0 +1,6 @@
+/.venv
+/__pycache__
+/.vscode
+
+/tests.sqlite3-query
+/test.ipynb
