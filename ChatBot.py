@@ -39,7 +39,7 @@ with sideb.expander("About SQL ChatBot"):
         This chatbot converts user questions into SQL queries, returning database output as a natural language response.
              View the Dashboard sidebar for more information about the datasets.
              
-        View the code on [GitHub]("https://google.com")
+        View the code on [GitHub]("https://github.com/mangocheeks/sqlchatbot/blob/main/README.md")
     ''')
 
 #Create a chat history if not already existed

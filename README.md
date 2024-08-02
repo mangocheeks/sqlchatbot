@@ -1,4 +1,6 @@
 # SQL Database Chatbot
+![image](https://github.com/user-attachments/assets/573a583b-c0d3-433b-9242-f6c6d842568d)
+![image](https://github.com/user-attachments/assets/35c21198-40eb-4fa4-af2c-a6eb2db4cbad)
 
 #### About
 
