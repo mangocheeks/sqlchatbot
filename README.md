@@ -5,7 +5,7 @@
 #### About
 
 This SQL Database Chatbot converts user questions into SQL queries, returning database output as a natural language response.  
-Created with Matplotlib, Streamlit, Pandas, Langchain, OpenAI, Chroma, and GPT-3.5-turbo llm. See [powerpoint]([url](https://github.com/mangocheeks/sqlchatbot/blob/main/SQL%20Chatbot%20Demo.pptx)) for more info.
+Created with Matplotlib, Streamlit, Pandas, Langchain, OpenAI, Chroma, and GPT-3.5-turbo llm. See [powerpoint](https://github.com/mangocheeks/sqlchatbot/blob/main/SQL%20Chatbot%20Demo.pptx) for more info.
 
 -----
 #### Setup
