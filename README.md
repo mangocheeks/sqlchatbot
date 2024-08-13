@@ -11,9 +11,10 @@ Created with Matplotlib, Streamlit, Pandas, Langchain, OpenAI, Chroma, and GPT-3
 #### Setup
 
 - Pull git repository
-- Replace API tokens in PlotBot, ChatBot and DynamicAgent
-- Setup venv with Python 3.10 then install requirements.txt
-- Launch streamlit locally with streamlit run ./ChatBot.py
+- Setup venv with Python 3.10
+- Assign and export OPENAI_API_KEY in the activate file and run source activate in bash
+- Run pip install -r requirements.txt --user
+- Launch streamlit locally with python -m streamlit run ChatBot.py
 - Stop streaming with Ctrl+C
 
 -----

@@ -5,16 +5,6 @@ from ResponseGetters import get_response, get_default_agent_response, get_custom
 from DynamicAgent import get_dynamic_agent_response
 from streamlit_pills import pills
 from streamlit_extras.stylable_container import stylable_container
-import os
-
-#Set OpenAI Key to access llm
-os.environ["OPENAI_API_KEY"] = ""
-
-#Set LangSmith Keys for tracing
-# os.environ["LANGCHAIN_TRACING_V2"] = "true"
-# os.environ["LANGCHAIN_API_KEY"] = ""
-# os.environ["LANGCHAIN_ENDPOINT"]="https://api.smith.langchain.com"
-# os.environ["LANGCHAIN_PROJECT"]=""
 
 #############Page Setup
 #set_page_config must be first streamlit command, called once per page

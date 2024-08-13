@@ -16,11 +16,6 @@ from langchain_core.prompts import (
     SystemMessagePromptTemplate,
 )
 
-import os
-
-#Set API Key
-os.environ["OPENAI_API_KEY"] = ""
-
 example_selector = SemanticSimilarityExampleSelector.from_examples(
     examples,
     OpenAIEmbeddings(),

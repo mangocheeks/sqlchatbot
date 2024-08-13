@@ -1,15 +1,5 @@
 import streamlit as st
 from ResponseGetters import get_plot_response
-import os
-
-#set openai key
-os.environ["OPENAI_API_KEY"] = ""
-
-#Set LangSmith keys for tracing
-# os.environ["LANGCHAIN_TRACING_V2"] = ""
-# os.environ["LANGCHAIN_API_KEY"] = ""
-# os.environ["LANGCHAIN_ENDPOINT"]="https://api.smith.langchain.com"
-# os.environ["LANGCHAIN_PROJECT"]=""
 
 #Page setup
 st.set_page_config(page_title="PlotBot", page_icon="🤖", layout='centered')
